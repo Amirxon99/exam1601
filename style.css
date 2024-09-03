@@ -1,0 +1,38 @@
+.a{
+background-color: yellow;
+    color: black ;
+}
+
+.q{
+    height: 50px;
+    width: 1200px;
+}
+table,tr,td{
+    border-collapse: collapse;
+    border: 3px solid black;
+    text-align: center;
+    width: 1000px;
+    height: 40px;
+}
+  .g{
+    background-color: green;
+    color: white;
+  }
+
+.z{
+    background-color: red;
+    color: white;
+}
+.ad{
+    background-color: rgb(58, 56, 56);
+    color: white;
+}
+
+
+
+
+
+
+
+
+
